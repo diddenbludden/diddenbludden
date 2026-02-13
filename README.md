@@ -7,7 +7,7 @@
 </div>
 
 <br><br><br>
-<h2 align="center">╰┈➤ GitHub</h2>
+<h2 align="center">shitHub stats</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Diddenbludden&theme=sakura-x" width="33%">
 </p>
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diddenbludden&bg_color=1A1B1F&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph" width="100%">
 </p>
-<h2 align="center">╰┈➤ My Languages</h2>
+<h2 align="center">Languages i be coding</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <table align="center">
     <tr>
