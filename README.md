@@ -32,10 +32,6 @@
         <br>Java
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" width="65" height="65" />
-        <br>.NET
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
         <br>C#
       </td>
