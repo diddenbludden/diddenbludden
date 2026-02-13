@@ -4,6 +4,7 @@
     <img src="https://media.tenor.com/9ufLyKBohioAAAAj/mai-sakurajima-seishun-buta-yarou.gif" width="200px"/><br />
     <h2>im 80he</h2>
     <p>Developer • Reverse Engineer</p>
+    [Discord](https://discord.com/users/1064531083607150723)
 </div>
 
 <br><br><br>
