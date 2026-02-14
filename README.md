@@ -15,51 +15,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diddenbludden&bg_color=1A1B1F&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph" width="100%">
 </p>
-<h2 align="center">Languages i be coding</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
-        <br>C#
-      </td>
-    </tr>
-    <tr align="center">
-      <td width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
-        <br>CSS
-      </td>
-      <td width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" />
-        <br>VSCode
-      </td>
-      <td width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />
-        <br>C++
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
