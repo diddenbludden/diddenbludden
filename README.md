@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5b2cff&height=180&section=header&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1000&pause=300&color=5b2cff&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+;I'm+%E2%9C%A9+80he" width="100%" />
 <div align="center">
     <img src="https://media.tenor.com/9ufLyKBohioAAAAj/mai-sakurajima-seishun-buta-yarou.gif" width="200px"/><br />
     <h2>im 80he</h2>
