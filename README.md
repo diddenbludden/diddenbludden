@@ -1,12 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5b2cff&height=180&section=header&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1000&pause=300&color=5b2cff&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+;I'm+%E2%9C%A9+80he" width="100%" />
+
 <div align="center">
-    <img src="https://media.tenor.com/9ufLyKBohioAAAAj/mai-sakurajima-seishun-buta-yarou.gif" width="200px"/><br />
-    <h2>im 80he</h2>
-    <p>Developer • Reverse Engineer</p>
-    straftard > https://straftard.github.io/ < straftat cheats
-    
-    Discord > https://discord.com/users/1064531083607150723
+  <img src="https://media.tenor.com/9ufLyKBohioAAAAj/mai-sakurajima-seishun-buta-yarou.gif" width="200px"/><br />
+
+  <h2>im 80he</h2>
+  <p>Developer • Reverse Engineer</p>
+
+  <br/>
+
+  <!-- Buttons -->
+  <a href="https://straftard.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/STRAFTARD-5b2cff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/1064531083607150723" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
 
 <br><br><br>
