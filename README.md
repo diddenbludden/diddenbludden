@@ -6,12 +6,12 @@
   <img src="https://media.tenor.com/9ufLyKBohioAAAAj/mai-sakurajima-seishun-buta-yarou.gif" width="200px"/><br />
 
   <h2>im 80he</h2>
-  <p>Developer and Reverse Engineer</p>
+  <p>Developer</p>
 
   <br/>
 
   <!-- Buttons -->
-  <a href="https://babybound.github.io/" target="_blank">
+  <a href="https://diddenbludden.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/BABYBOUND-5b2cff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
