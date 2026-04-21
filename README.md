@@ -12,7 +12,7 @@
 
   <!-- Buttons -->
   <a href="https://diddenbludden.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/BABYBOUND-5b2cff?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/SITE-5b2cff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://discord.com/users/1064531083607150723" target="_blank">
